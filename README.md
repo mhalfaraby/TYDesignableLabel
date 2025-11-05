@@ -17,9 +17,7 @@ No functional changes have been made to the original source code.
 
 ## 🏛 Original Repository & Credits
 
-This work is originally created and owned by **TYDesignableLabel**.  
+This work is originally created and owned by (https://github.com/TekYin)
 You can find the original source code here:
 
 🔗 **Original Repository:** [https://github.com/ORIGINAL_AUTHOR/ORIGINAL_REPO](https://github.com/TekYin/TYDesignableLabel)
-
-📄 **Copyright Notice:**  
