@@ -20,4 +20,4 @@ No functional changes have been made to the original source code.
 This work is originally created and owned by (https://github.com/TekYin)
 You can find the original source code here:
 
-🔗 **Original Repository:** [https://github.com/ORIGINAL_AUTHOR/ORIGINAL_REPO](https://github.com/TekYin/TYDesignableLabel)
+🔗 **Original Repository:** (https://github.com/TekYin/TYDesignableLabel)
